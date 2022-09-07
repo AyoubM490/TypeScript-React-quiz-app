@@ -7,7 +7,7 @@
 ## Introduction
 Responsive Quiz App made with React, [Open Trivia DB](https://opentdb.com/) and styled-components.
 
-![preview](![image](https://user-images.githubusercontent.com/95053734/188984514-a766a543-3e4f-4daa-bb50-b37b6553efd6.png))
+![preview](https://user-images.githubusercontent.com/95053734/188984514-a766a543-3e4f-4daa-bb50-b37b6553efd6.png)
 
 # Live Demo
 
