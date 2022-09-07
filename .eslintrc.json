@@ -32,6 +32,7 @@
       }
     ],
     "camelcase": "off",
+    "no-nested-ternary": "off",
     "react/jsx-filename-extension": [
       "warn",
       { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
