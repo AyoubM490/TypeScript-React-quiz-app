@@ -30,7 +30,8 @@
         "ts": "never",
         "tsx": "never"
       }
-   ],
+    ],
+    "camelcase": "off",
     "react/jsx-filename-extension": [
       "warn",
       { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
